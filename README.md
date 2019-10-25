@@ -10,9 +10,9 @@
 
 |||||
 | -- | -- | -- | -- |
-|01|[masm32](./environment/masm32.md)                       |07|[SASM](./environment/SASM.md)                           |
-|02|[DOSBox](./environment/DOSBox.md)                       |08|[MASM for windows](./environment/MASM-for-windows.md)   |
-|03|[QASM](./environment/QASM.md)                           |09|[Visual Studio](./environment/visual-studio.md)         |
-|04|[MASMPlus](./environment/MASMPlus.md)                   |10|[ASMStudio](./environment/ASMStudio.md)                 |
-|05|[MARS](./environment/MARS.md)                           |11|[RadASM](./environment/RadASM.md)                       |
-|06|[PCSpim](./environment/PCSpim.md)                       |  ||
+|01|[Turbo Assembler](./environment/tasm.md)              |07|[PCSpim](./environment/PCSpim.md) 
+|02|[masm32](./environment/masm32.md)                       |08|[SASM](./environment/SASM.md)                           |
+|03|[DOSBox](./environment/DOSBox.md)                       |09|[MASM for windows](./environment/MASM-for-windows.md)   |
+|04|[QASM](./environment/QASM.md)                           |10|[Visual Studio](./environment/visual-studio.md)         |
+|05|[MASMPlus](./environment/MASMPlus.md)                   |11|[ASMStudio](./environment/ASMStudio.md)                 |
+|06|[MARS](./environment/MARS.md)                           |12|[RadASM](./environment/RadASM.md)                       |
