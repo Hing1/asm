@@ -4,7 +4,14 @@
 
 |||
 | -- | -- |
-|01| [hello world](./src/01hello_world.asm)|
+|01| [hello world](./src/01print-hello.asm)|
+|02| [calulate cube](./src/02cube-of-input.asm)|
+|03| [check input](./src/03input-error.asm)|
+|04| [sum](./src/04sum-1-to-100.asm)|
+|05| [bubble sort](./src/05bubble-sort-1.asm)|
+|06| [bubble sort](./src/06bubble-sort-2.asm)|
+|07| [sub routine](./src/07subroutine.asm)|
+|08| [sub routine](./src/08stack-protect.asm)|
 
 ## 2. Build the Environment
 
