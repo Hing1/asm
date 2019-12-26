@@ -2,6 +2,48 @@
 
 ## fish c
 
+base
+
+CPU
+
+register
+
+program
+
+[BX] and loop
+
+segment
+
+* [mul segment original](./src/fishc/mul-seg-original.asm)
+
+* [mul segment improve](./src/fishc/mul-seg-improve.asm)
+
+memory address
+
+data
+
+shift instruction
+
+call and return
+
+flag register
+
+interrupt
+
+int
+
+port
+
+external interrupt
+
+address table
+
+BIOS
+
+
+
+
+
 
 
 ## exercise
