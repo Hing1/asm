@@ -4,22 +4,32 @@
 
 Program
 
-* [double number](./src/wang/double-numb.asm)
-* [start flag](./src/wang/start-flag.asm)
-* [try stack](./src/wang/try-stack.asm)
+* [double number](./src/wang/01-double-numb.asm)
+* [start flag](./src/wang/02-start-flag.asm)
+* [try stack](./src/wang/03-try-stack.asm)
 
 [BX] and loop
 
+* [bx](./src/wang/04-bx.asm)
+* [inc](./src/wang/05-inc.asm)
+* [loop](./src/wang/06-loop.asm)
+* [loop multiply](./src/wang/07-loop-mul.asm)
+* [al and ah](./src/wang/08-al-ah.asm)
+* [segment](./src/wang/09-seg.asm)
+* [loop addition](./src/wang/10-loop-add.asm)
+* [safe area](./src/wang/11-safe-area.asm)
+
 Segment
 
-* [mul segment original](./src/wang/mul-seg-original.asm)
+* [mul segment original](./src/wang/12-mul-seg-original.asm)
 
-* [mul segment improve](./src/wang/mul-seg-improve.asm)
+* [mul segment improve](./src/wang/13-mul-seg-improve.asm)
 
 Memory address
 
-* [Transform big and small letter](./src/wang/big-small-letter.asm)
-* [array first](./src/wang/array-try.asm)
+* [Transform big and small letter](./src/wang/14-big-small-letter.asm)
+* [array first](./src/wang/15-array-try.asm)
+* [copy array](./src/wang/16-copy-array.asm)
 
 data
 
