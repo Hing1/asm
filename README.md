@@ -18,6 +18,8 @@ Segment
 
 Memory address
 
+* [Transform big and small letter](./src/wang/big-small-letter.asm)
+
 data
 
 shift instruction
