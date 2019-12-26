@@ -19,6 +19,7 @@ Segment
 Memory address
 
 * [Transform big and small letter](./src/wang/big-small-letter.asm)
+* [array first](./src/wang/array-try.asm)
 
 data
 
