@@ -1,4 +1,4 @@
-assume cs:codesg, ds:datasg
+assume cs:codesg, ds:datasg, ss:stacksg
 
 datasg segment
     db 'abc             '
@@ -6,6 +6,10 @@ datasg segment
     db 'ghi             '
     db 'jkl             '
 datasg ends
+
+stacksg segment
+    dw 0, 0, 0, 0, 0, 0, 0, 0
+stacksg ends
 
 codesg segment
 
