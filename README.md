@@ -1,24 +1,22 @@
-# assembly
+# Assembly Language
 
-## fish c
+## Dr. Wang Shuang
 
-base
+Program
 
-CPU
-
-register
-
-program
+* [double number](./src/wang/double-numb.asm)
+* [start flag](./src/wang/start-flag.asm)
+* [try stack](./src/wang/try-stack.asm)
 
 [BX] and loop
 
-segment
+Segment
 
-* [mul segment original](./src/fishc/mul-seg-original.asm)
+* [mul segment original](./src/wang/mul-seg-original.asm)
 
-* [mul segment improve](./src/fishc/mul-seg-improve.asm)
+* [mul segment improve](./src/wang/mul-seg-improve.asm)
 
-memory address
+Memory address
 
 data
 
@@ -46,7 +44,7 @@ BIOS
 
 
 
-## exercise
+## Exercise
 
 * [hello world](./src/01print-hello.asm)
 * [calulate cube](./src/02cube-of-input.asm)
