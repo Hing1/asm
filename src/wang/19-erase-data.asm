@@ -1,6 +1,7 @@
 assume cs:codesg, ds:datasg
 
 datasg segment
+    db 96 dup(' ')
     db 'DEC'
     db 'Ken Oslen'
     dw 137
