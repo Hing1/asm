@@ -30,8 +30,14 @@ Memory address
 * [Transform big and small letter](./src/wang/14-big-small-letter.asm)
 * [array first](./src/wang/15-array-try.asm)
 * [copy array](./src/wang/16-copy-array.asm)
+* [upper first char](./src/wang/17-upper-first-char.asm)
+* [upper three char](./src/wang/18-upper-three-first-char.asm)
 
 data
+
+* [erase data](./src/wang/18-upper-three-first-char.asm)
+* [div and dd](./src/wang/20-div-dd.asm)
+* [year income data](./src/wang/21-year-income.asm)
 
 shift instruction
 
