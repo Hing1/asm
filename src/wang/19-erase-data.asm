@@ -1,7 +1,11 @@
 assume cs:codesg, ds:datasg
 
 datasg segment
-    db  
+    db 'DEC'
+    db 'Ken Oslen'
+    dw 137
+    dw 40
+    db 'PDP'
 datasg ends
 
 codesg segment
