@@ -1,6 +1,8 @@
 # Assembly Language
 
-## Dr. Wang Shuang
+## Intel
+
+### Dr. Wang Shuang
 
 Program
 
