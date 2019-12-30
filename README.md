@@ -43,6 +43,14 @@ data
 
 shift instruction
 
+* [offset start](./src/wang/22-offset-start.asm)
+* [offset copy instruction](./src/wang/23-offset-cp-instruct.asm)
+* [jmp short](./src/wang/24-jmp-short.asm)
+* [jmp short 2](./src/25-jmp-short-2.asm)
+* [jmp far ptr](./src/wang/26-jmp-far-ptr.asm)
+* [jmp word ptr](./src/wang/27-jmp-word-ptr.asm)
+* [jmp dword ptr](./src/wang/28-jmp-dword-ptr.asm)
+
 call and return
 
 flag register
