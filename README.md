@@ -54,6 +54,20 @@ shift instruction
 call and return
 
 * [segment stack](./src/wang/29-seg-stack.asm)
+* [retf](./src/wang/30-retf.asm)
+* [ret](./src/wang/31-ret.asm)
+* [call flag](./src/wang/32-call-flag.asm)
+* [call reg](./src/wang/33-call-reg.asm)
+* [call address 1](./src/wang/34-call-address.asm)
+* [call address 2](./src/wang/35-call-address-2.asm)
+* [call address 3](./src/wang/36-call-address-3.asm)
+* [call loop](./src/wang/37-call-loop.asm)
+* [call return](./src/wang/38-call-ret.asm)
+* [mul](./src/wang/39-mul-begin.asm)
+* [cube](./src/wang/40-cube.asm)
+* [capital](./src/wang/41-capital.asm)
+* [capital with 0 in the end](./src/wang/42-capital-with-0-end.asm)
+* [capital many string](./src/wang/43-capital-many-string.asm)
 
 flag register
 
