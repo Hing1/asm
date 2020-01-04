@@ -71,6 +71,20 @@ call and return
 
 flag register
 
+* [adc](./src/wang/44-adc-begin.asm)
+* [add](./src/wang/45-add-128.asm)
+* [sbb](./src/wang/46-sbb.asm)
+* [cmp](./src/wang/47-cmp.asm)
+* [cmp example 1](./src/wang/50-cmp-example-1.asm)
+* [cmp example 2](./src/wang/49-cmp-example-2.asm)
+* [cmp example 3](./src/wang/48-cmp-example-3.asm)
+* [cmp jmp](./src/wang/51-cmp-j.asm)
+* [cmp example 4](./src/wang/52-cmp-example-4.asm)
+* [movsb and movsw](./src/wang/53-movsb-movsw.asm)
+* [send data 1](./src/wang/54-send-data.asm)
+* [send data 2](./src/wang/55-send-data-2.asm)
+* [pushf and popf](./src/wang/56-pushf-popf.asm)
+
 interrupt
 
 int
