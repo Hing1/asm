@@ -53,6 +53,8 @@ shift instruction
 
 call and return
 
+* [segment stack](./src/wang/29-seg-stack.asm)
+
 flag register
 
 interrupt
